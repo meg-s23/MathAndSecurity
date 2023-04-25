@@ -2,9 +2,7 @@
 and format a percentage, displays how many days until 7/4/25, use the law of
 cosines to calculate the leg of a triangle, calculate the volume of a right
 circular cylinder, exit program option"""
-#Developer: Megan Moore
-#SDEV300/6380 Lab2
-#Jan 24, 2023
+
 #Imports for program
 import sys
 import secrets
